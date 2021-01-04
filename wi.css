@@ -1,0 +1,31 @@
+h1 {
+	color: green
+}
+table,th,td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+body {
+	background-color: #b3ffb3;
+}
+td {
+	width: 120px;
+}
+ul {
+	list-style-type: square;
+}
+.krasa {
+	color: blue;
+}
+.krasa1{
+	color: red;
+}
+.krasa2{
+	color: yellow;
+}
+.krasa3{
+	color:#993333;
+}
+.krasa4{
+	color:#00cc99;
+}
